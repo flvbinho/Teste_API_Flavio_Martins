@@ -12,7 +12,7 @@
    
    
    
-   . Após ter baixado a ferramenta, faça o clone ou baixe o arquivo em questão e carrega na ferramenta POSTMAN.
+   . Após ter baixado a ferramenta, faça o clone ou baixe o arquivo em questão e carregue na ferramenta POSTMAN.
    
    
    #  Instruções do TESTE
